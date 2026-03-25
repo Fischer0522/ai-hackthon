@@ -93,3 +93,11 @@ call skills to fix and verify
 $xfstests-fix generic/xxx
 $kernel-archtiteture-audit current workspace or commit xxx
 ```
+
+
+
+## Run xfstests and give feedback
+
+```
+check the qemu.log
+```
